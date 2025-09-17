@@ -1,4 +1,3 @@
 # proyecto1
 ejemplo
-![ejemplo](https://github.com/user-attachments/assets/9cb8c407-8388-4093-b945-7a0ece3eba06)
-
+![yo](https://github.com/user-attachments/assets/97b8ee6e-40a6-474b-a30d-0e8f225ac6e6)
